@@ -6,19 +6,19 @@ title: Lumingyuan Tang
 superuser: true
 
 # Role/position/tagline
-role: Research Intern@IDEA
+role: Gradute Student@USC
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: IDEA
-    url: https://www.idea.edu.cn
+  - name: USC
+    url: https://usc.edu
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include NLP.
 
 # Interests to show in About widget
 interests:
-  - Fintech
+  - AI in Finance
   - Knowledge Graph
   - Open Domain QA
 
@@ -27,10 +27,10 @@ education:
   courses:
     - course: M.S. in Computer Science
       institution: University of South California
-      year: 2025(expected)
+      year: 2023-2025(expected)
     - course: M.Eng. in Software Engineering
       institution: Nankai University
-      year: 2022
+      year: 2018-2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -40,9 +40,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:tanglujay@gmail.com'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/tanglumy
   # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
   #   icon_pack: fas
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -66,9 +63,9 @@ email: 'tanglujay@gmail.com'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am now a Research Engineer Intern at IDEA. I will start my M.S. program at USC next year.
+I am now a master student at the University of Southern California. 
 
-I was fortunate to be advised by Professor [Shenglin Zhang](http://nkcs.iops.ai/shenglinzhang/) at Nankai University. From March 2021-June 2021, I was advised by Dr. [Gary Becigeul](https://www.garybe.com/) from Gematria Technologies. From the 2021.7 until 2021.10 , I was a visiting student researcher advised by Professor [Ian Harris](https://www.ics.uci.edu/~harris/) from UC, Irvine.
+I am working as a research engineer intern at [International Digital Economy Academy](https://idea.edu.cn/). From March 2021-June 2021, I worked as an research intern advised by Dr. [Gary Becigeul](https://www.garybe.com/) at Gematria Technologies. From the July 2021-October 2021 , I was a visiting student researcher at University of California, Irvine.
 
-My research interests include deep learning, basically focus on natural language processing, dialogue system and open domain system.
+My research interests include Machine Learning, Natural Language Processing, and Knowledge Graph in Finance and Question Answering.
 

@@ -27,10 +27,10 @@ content:
   # Contact details (edit or remove options as required)
   email: tanglujay@gmail.com
   address:
-    street:
+    street: 825 S Hill
     city: Los Angles
     region: CA
-    postcode: '94305'
+    postcode: '90014'
     country: United States
     country_code: US
   # contact_links:
