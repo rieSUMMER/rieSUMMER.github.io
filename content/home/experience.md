@@ -22,38 +22,22 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research Engineer Intern
+  - title: Research Intern
     company: FinAI, International Digital Economy Academy
     company_url: 'https://idea.edu.cn'
     company_logo: idea
     location: Shenzhen, China
-    date_start: '2022-08-20'
+    date_start: '2023-04-06'
     date_end: ''
-    description: Advised by Dr.Chengjin Xu
-  - title: Research Intern
-    company: University of California, Irvine
-    company_url: 'https://uci.edu'
-    company_logo: uci
+    description: Advised by Prof. [Jian Guo](https://www.idea.edu.cn/person/guojian/)
+  - title: Online Research Intern
+    company: Microsoft Research Asia
+    company_url: 'https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/'
+    company_logo: msra
     location: Remote
-    date_start: '2021-07-01'
-    date_end: '2021-09-01'
-    description: Advised by Prof. [Ian Harris](https://www.ics.uci.edu/~harris/)
-  - title: Research Intern
-    company: Gematria Tech
-    company_url: 'https://gematria.tech'
-    company_logo: gematria
-    location: Remote
-    date_start: '2021-03-01'
-    date_end: '2021-06-01'
-    description: Advised by [Dr. Gary Becigeul](https://garybe.com)
-  - title: Research Assitant
-    company: AIOps lab, Nankai University
-    company_url: 'https://nkcs.iops.ai/'
-    company_logo: nku
-    location: Tianjin, China
-    date_start: '2020-10-01'
-    date_end: '2022-01-15'
-    description: Advised by Prof. Shenlin Zhang
+    date_start: '2022-03-01'
+    date_end: '2023-04-01'
+    description: Advised by Dr. [Yeyun Gong](https://www.microsoft.com/en-us/research/people/yegong/)
 design:
   columns: '2'
 ---

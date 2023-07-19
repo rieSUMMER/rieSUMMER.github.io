@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Lumingyuan Tang'
-    twitter: 'wowchemy'
+    description: 'Jiashuo Sun'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Lumingyuan Tang'
+    notice: '© {year} Jiashuo Sun'
     license:
       enable: false
       allow_derivatives: false

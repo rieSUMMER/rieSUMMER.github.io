@@ -25,14 +25,14 @@ content:
   #     captcha: false
 
   # Contact details (edit or remove options as required)
-  email: tanglujay@gmail.com
+  email: gasolsun36@gmail.com
   address:
-    street: 825 S Hill
-    city: Los Angles
-    region: CA
-    postcode: '90014'
-    country: United States
-    country_code: US
+    street: No.5 Shihana Road
+    city: Shenzhen
+    region: CN
+    postcode: '518000'
+    country: China
+    country_code: CN
   # contact_links:
   #   - icon: twitter
   #     icon_pack: fab

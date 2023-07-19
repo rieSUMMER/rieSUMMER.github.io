@@ -6,31 +6,32 @@ title: Lumingyuan Tang
 superuser: true
 
 # Role/position/tagline
-role: Gradute Student@USC
+role: Postgraduate student@XMU
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: USC
-    url: https://usc.edu
+    url: https://www.xmu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include NLP.
+bio: My research interests include NLP, Retrieval, Question Answering and Reasoning.
 
 # Interests to show in About widget
 interests:
-  - AI in Finance
-  - Knowledge Graph
+  - Large Language Models
+  - Retrieval
+  - Reasoning
   - Open Domain QA
 
 # Education to show in About widget
 education:
   courses:
     - course: M.S. in Computer Science
-      institution: University of South California
-      year: 2023-2025(expected)
-    - course: M.Eng. in Software Engineering
-      institution: Nankai University
-      year: 2018-2022
+      institution: Xiamen University
+      year: 2021-2024(expected)
+    - course: B.S. in Computer Science
+      institution: Shandong University
+      year: 2017-2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -39,16 +40,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:tanglujay@gmail.com'
+    link: 'mailto:gasolsun36@gmail.com'
   # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
   #   icon_pack: fas
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/tanglumy
+    link: https://github.com/gasolsun36
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/tanglumy
+    link: https://www.linkedin.com/in/%E5%98%89%E7%A1%95-%E5%AD%99-b67857190/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -58,14 +59,14 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'tanglujay@gmail.com'
+email: 'gasolsun36@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am now a master student at the University of Southern California. 
+I am now a second-year student at the Xiamen University, advised by Prof. [Chen Lin](https://cs.xmu.edu.cn/info/1008/1216.htm) and Dr. [Yeyun Gong](https://www.microsoft.com/en-us/research/people/yegong/).
 
-I am working as a research engineer intern at [International Digital Economy Academy](https://idea.edu.cn/). From March 2021-June 2021, I worked as an research intern advised by Dr. [Gary Becigeul](https://www.garybe.com/) at Gematria Technologies. From the July 2021-October 2021 , I was a visiting student researcher at University of California, Irvine.
+I am working as a research intern at [International Digital Economy Academy](https://idea.edu.cn/).
 
-My research interests include Machine Learning, Natural Language Processing, and Knowledge Graph in Finance and Question Answering.
+My research interests include Natural Language Processing, Retrieval, Natural Language Generation, Question Answering, and Numerical Reasoning. Specially, I aim to develop models with human reasoning capabilities.
 
