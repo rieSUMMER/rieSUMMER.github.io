@@ -1,25 +1,27 @@
 ---
-title: 'Readability Controlled Open-domain QA for COVID-19'
+title: 'Enhancing Chain-of-Thoughts Prompting with Iterative Bootstrapping in Large Language Models'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Zhanhan Qu
-  - admin
-  - Xiao Liu
-  - Gary Becigeul
+  - Jiashuo Sun
+  - Hang Zhang
+  - Chen Lin
+  - Yeyun Gong
+  - Jian Guo
+  - Nan Duan
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+# author_notes:
+#   - 'Equal contribution'
+#   - 'Equal contribution'
 
-date: '2021-06-01T00:00:00Z'
+date: '2022-12-14T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2021-06-01T00:00:00Z'
+publishDate: '2022-12-14T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -31,7 +33,7 @@ publication_types: ['3']
 publication: 
 publication_short: 
 
-abstract: The continuous spread of COVID-19 these days has been calling for a way to provide instant and readable knowledge for researchers, medical workers and the general public. Recent works on COVID related question answering (QA) systems have leveraged retrievalbased structures and yielded promising results, yet sometimes their answers could become unreadable for most users due to the highly technical nature of their knowledge source. We propose RC-RAG for Readability Controlled Retrieval Augmented Generation, an open-domain question-answering system on COVID related topics, which is capable of generating answers of a chosen readability score given a COVID-related question. Our model is proved to generate answers of different readability levels, and could meet the requirements of people with different levels of education. We hope our system will be able to aid researchers and the general public to go through this tough time together.
+abstract: Long-form numerical reasoning in financial analysis aims to generate a reasoning program to calculate the correct answer for a given question. Previous work followed a retriever-generator framework, where the retriever selects key facts from a long-form document, and the generator generates a reasoning program based on retrieved facts. However, they treated all facts equally without considering the different contributions of facts with and without numbers. Meanwhile, the program consistency were ignored under supervised training, resulting in lower training accuracy and diversity. To solve these problems, we proposed APOLLO to improve the long-form numerical reasoning framework. For the retriever, we adopt a number-aware negative sampling strategy to enable the retriever to be more discriminative on key numerical facts. For the generator, we design consistency-based reinforcement learning and target program augmentation strategy based on the consistency of program execution results. Experimental results on the FinQA and ConvFinQA leaderboard verify the effectiveness of our proposed method, achieving the new state-of-the-art.
 
 tags: []
 
@@ -55,7 +57,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: '[**RC-RAG**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: '[**APOLLO**](https://arxiv.org/abs/2212.07249)'
   focal_point: ''
   preview_only: false
 

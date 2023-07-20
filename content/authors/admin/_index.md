@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Lumingyuan Tang
+title: Jiashuo Sun
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,7 +10,7 @@ role: Postgraduate student@XMU
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: USC
+  - name: Xiamen University
     url: https://www.xmu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
