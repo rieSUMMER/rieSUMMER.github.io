@@ -33,7 +33,7 @@ experience:
   - title: Online Research Intern
     company: Microsoft Research Asia
     company_url: 'https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/'
-    company_logo: msra
+    company_logo: idea
     location: Remote
     date_start: '2022-03-01'
     date_end: '2023-04-01'
