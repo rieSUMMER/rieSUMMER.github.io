@@ -5,7 +5,7 @@ title: 'APOLLO: An Optimized Training Approach for Long-form Numerical Reasoning
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Jiashuo Sun
+  - admin
   - Hang Zhang
   - Chen Lin
   - Yeyun Gong

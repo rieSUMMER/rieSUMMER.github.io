@@ -5,7 +5,7 @@ title: 'Think-on-Graph: Deep and Responsible Reasoning of Large Language Model w
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Jiashuo Sun
+  - admin
   - Chengjin Xu
   - Lumingyuan Tang
   - Saizhuo Wang

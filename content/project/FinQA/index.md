@@ -1,6 +1,6 @@
 ---
 title: FinQA
-summary: Rank 1 on FinQA Competition, Based on the paper "FinQA A Dataset of Numerical Reasoning over Financial Data"
+summary: Global Rank 1 on FinQA Competition, Based on the paper "FinQA A Dataset of Numerical Reasoning over Financial Data"
 tags:
   - Question Answering
 date: '2022-11-01T00:00:00Z'
@@ -29,5 +29,8 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-Paper: APOLLO: An Optimized Training Approach for Long-form Numerical Reasoning
+Paper: "APOLLO: An Optimized Training Approach for Long-form Numerical Reasoning"
+
 We adopt a number-aware negative sampling strategy in retriever to discriminate key numerical facts from others. Moreover, we design consistency-based reinforcement learning with target program augmentation, to increase program diversity and ultimately increase the execution accuracy.
+
+We acachieve **Global Rank 1** on FinQA [Private Leaderboard](https://codalab.lisn.upsaclay.fr/competitions/4138#results) !

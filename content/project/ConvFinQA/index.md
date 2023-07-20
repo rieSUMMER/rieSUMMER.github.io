@@ -1,6 +1,6 @@
 ---
 title: ConvFinQA
-summary: Rank 1 on ConvFinQA Competition, Based on the paper "ConvFinQA Exploring the Chain of Numerical Reasoning in Conversational Finance Question Answering"
+summary: Global Rank 1 on ConvFinQA Competition, Based on the paper "ConvFinQA Exploring the Chain of Numerical Reasoning in Conversational Finance Question Answering"
 tags:
   - Conversational Question Answering
 date: '2022-11-25T00:00:00Z'
@@ -29,5 +29,8 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-Paper: APOLLO: An Optimized Training Approach for Long-form Numerical Reasoning
+Paper: "APOLLO: An Optimized Training Approach for Long-form Numerical Reasoning"
+
 We adopt a number-aware negative sampling strategy in retriever to discriminate key numerical facts from others. Moreover, we design consistency-based reinforcement learning with target program augmentation, to increase program diversity and ultimately increase the execution accuracy.
+
+We acachieve **Global Rank 1** on ConvFinQA [Private Leaderboard](https://codalab.lisn.upsaclay.fr/competitions/8582#results) !
