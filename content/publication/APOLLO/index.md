@@ -1,5 +1,5 @@
 ---
-title: 'Enhancing Chain-of-Thoughts Prompting with Iterative Bootstrapping in Large Language Models'
+title: 'APOLLO: An Optimized Training Approach for Long-form Numerical Reasoning'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

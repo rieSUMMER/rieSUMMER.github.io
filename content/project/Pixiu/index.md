@@ -1,5 +1,5 @@
 ---
-title: FinQA
+title: PiXiu
 summary: PiXiu Instruct-tuning Large Language Models with Chinese Financial Knowledge Graph
 tags:
   - Large Language Models
