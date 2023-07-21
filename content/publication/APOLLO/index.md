@@ -61,6 +61,14 @@ image:
   focal_point: ''
   preview_only: false
 
+links:
+  - name: Paper
+    url: https://arxiv.org/abs/2212.07249
+  - name: Code
+    url: https://github.com/GasolSun36/APOLLO
+  - name: Leaderboard
+    url: https://codalab.lisn.upsaclay.fr/competitions/8582#results
+
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.

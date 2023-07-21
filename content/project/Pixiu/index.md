@@ -14,7 +14,7 @@ image:
   focal_point: Smart
 
 links:
-  - name: Github
+  - name: Code
     url: https://github.com/GasolSun36/pixiu
   - name: Model
     url: https://huggingface.co/gasolsun/pixiu-v1.0

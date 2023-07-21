@@ -13,14 +13,12 @@ image:
   focal_point: Smart
 
 links:
-  - icon: github
-    icon_pack: fab
-    name: Github
+  - name: Paper
+    url: https://arxiv.org/abs/2212.07249
+  - name: Code
     url: https://github.com/GasolSun36/APOLLO
-  - icon: page
-    icon_pack: fab
-    name: Leaderboard
-    url: https://codalab.lisn.upsaclay.fr/competitions/8582#results
+  - name: Leaderboard
+    url: https://codalab.lisn.upsaclay.fr/competitions/4138#results
 url_code: ''
 url_pdf: ''
 url_slides: ''
