@@ -17,6 +17,10 @@ links:
     icon_pack: fab
     name: Github
     url: https://github.com/GasolSun36/APOLLO
+  - icon: page
+    icon_pack: fab
+    name: Leaderboard
+    url: https://codalab.lisn.upsaclay.fr/competitions/8582#results
 url_code: ''
 url_pdf: ''
 url_slides: ''

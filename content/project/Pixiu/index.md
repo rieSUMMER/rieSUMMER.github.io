@@ -14,10 +14,10 @@ image:
   focal_point: Smart
 
 links:
-  - icon: github
-    icon_pack: fab
-    name: Github
+  - name: Github
     url: https://github.com/GasolSun36/pixiu
+  - name: Model
+    url: https://huggingface.co/gasolsun/pixiu-v1.0
 url_code: ''
 url_pdf: ''
 url_slides: ''
