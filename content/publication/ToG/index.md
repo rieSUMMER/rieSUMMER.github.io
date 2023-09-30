@@ -11,6 +11,7 @@ authors:
   - Saizhuo Wang
   - Chen Lin
   - Yeyun Gong
+  - Lionel M. Ni
   - Heung-Yeung Shum
   - Jian Guo
 
@@ -35,7 +36,7 @@ publication_types: ['3']
 publication: 
 publication_short: 
 
-abstract: Large language models (LLMs) have made significant strides in various tasks, yet they often struggle with complex reasoning and exhibit poor performance in scenarios where knowledge traceability, timeliness, and accuracy are crucial. To address these limitations, we present Think-on-Graph (ToG), a novel framework that leverages knowledge graphs to enhance LLMs' ability for deep and responsible reasoning. By employing ToG, we can identify entities relevant to a given question and conduct exploration and reasoning to retrieve related triples from an external knowledge database. This iterative procedure generates multiple reasoning pathways consisting of sequentially connected triplets until sufficient information is gathered to answer the question or the maximum depth is reached. Through experiments on complex multi-hop reasoning question-answering tasks, we demonstrate that ToG outperforms existing methods, effectively addressing the aforementioned limitations of LLMs without incurring additional training costs.
+abstract: Although large language models (LLMs) have achieved significant success in various tasks, they often struggle with hallucination problems, especially in scenarios requiring deep and responsible reasoning. These issues could be partially addressed by introducing external knowledge graphs (KG) in LLM reasoning. In this paper, we propose a new LLM-KG integrating paradigm ``$\hbox{LLM}\otimes\hbox{KG}$'' which treats the LLM as an agent to interactively explore related entities and relations on KGs and perform reasoning based on the retrieved knowledge. We further implement this paradigm by introducing a new approach called Think-on-Graph (ToG), in which the LLM agent iteratively executes beam search on KG, discovers the most promising reasoning paths, and returns the most likely reasoning results. We use a number of well-designed experiments to examine and illustrate the following advantages of ToG. 1) compared with LLMs, ToG has better deep reasoning power; 2) ToG has the ability of knowledge traceability and knowledge correctability by leveraging LLMs reasoning and expert feedback; 3) ToG provides a flexible plug-and-play framework for different LLMs, KGs and prompting strategies without any additional training cost; 4) the performance of ToG with small LLM models could exceed large LLM such as GPT-4 in certain scenarios and this reduces the cost of LLM deployment and application. As a training-free method with lower computational cost and better generality, ToG achieves overall SOTA in 6 out of 9 datasets where most previous SOTAs rely on additional training.
 
 tags: []
 
@@ -66,6 +67,8 @@ image:
 links:
   - name: Paper
     url: https://arxiv.org/abs/2307.07697
+  - name: Code
+    url: https://github.com/GasolSun36/ToG
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
