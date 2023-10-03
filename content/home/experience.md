@@ -29,7 +29,7 @@ experience:
     location: Shenzhen, China
     date_start: '2023-04-06'
     date_end: ''
-    description: Advised by Prof. [Jian Guo](https://www.idea.edu.cn/person/guojian/) and Prof. [Heung-Yeung Shum](https://scholar.google.com.hk/citations?hl=zh-CN&user=9akH-n8AAAAJ/)
+    description: Advised by Prof. [Jian Guo](https://www.idea.edu.cn/person/guojian/) and Prof. [Heung-Yeung Shum](https://scholar.google.com.hk/citations?user=9akH-n8AAAAJ&hl=zh-CN)
   - title: Online Research Intern
     company: Microsoft Research Asia
     company_url: 'https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/'
