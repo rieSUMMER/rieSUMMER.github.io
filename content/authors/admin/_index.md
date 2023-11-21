@@ -14,14 +14,14 @@ organizations:
     url: https://www.xmu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include NLP, Retrieval, Question Answering and Reasoning.
+bio: My research interests include NLP, Retrieval, Reasoning and Knowledge-Augmented LLM.
 
 # Interests to show in About widget
 interests:
   - Large Language Models
   - Retrieval
   - Reasoning
-  - Open Domain QA
+  - Knowledge-Augmented LLM
 
 # Education to show in About widget
 education:
@@ -64,9 +64,9 @@ email: 'gasolsun36@gmail.com'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am now a second-year student at the Xiamen University, advised by Prof. [Chen Lin](https://cs.xmu.edu.cn/info/1008/1216.htm) and Dr. [Yeyun Gong](https://www.microsoft.com/en-us/research/people/yegong/).
+I am now a final-year student at the Xiamen University, advised by Prof. [Chen Lin](https://cs.xmu.edu.cn/info/1008/1216.htm) and Dr. [Yeyun Gong](https://www.microsoft.com/en-us/research/people/yegong/).
 
 I am working as a research intern at [International Digital Economy Academy](https://idea.edu.cn/).
 
-My research interests include Natural Language Processing, Retrieval, Natural Language Generation, Question Answering, and Numerical Reasoning. Specially, I aim to develop models with human reasoning capabilities.
+My research interests include Natural Language Processing, Retrieval, Natural Language Generation, Numerical Reasoning and Knowledge-Augmented LLM. Specially, I aim to develop models exceed the level of human knowledge and have human reasoning capabilities.
 
