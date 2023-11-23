@@ -38,6 +38,22 @@ experience:
     date_start: '2022-03-01'
     date_end: '2023-04-01'
     description: Advised by Dr. [Yeyun Gong](https://www.microsoft.com/en-us/research/people/yegong/)
+  - title: Research Assitant
+    company: Xiamen University
+    company_url: 'https://en.xmu.edu.cn/main.htm/'
+    company_logo: xmu
+    location: Xiamen, China
+    date_start: '2021-09-01'
+    date_end: ''
+    description: Advised by Prof. [Chen Lin](https://xmudm.github.io/people/)
+  - title: Research Assitant
+    company: Shandong University
+    company_url: 'https://www.sdu.edu.cn/index.htm'
+    company_logo: xmu
+    location: Jinan, China
+    date_start: '2020-03-01'
+    date_end: '2021-06-01'
+    description: 
 design:
   columns: '2'
 ---
