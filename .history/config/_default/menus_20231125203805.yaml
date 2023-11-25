@@ -7,6 +7,9 @@ main:
   - name: Home
     url: '#about'
     weight: 10
+  - name: News
+    url: '#news'
+    weight: 10
   - name: Experience
     url: '#experience'
     weight: 20
@@ -15,6 +18,9 @@ main:
     weight: 30
   - name: Publications
     url: '#featured'
+    weight: 50
+  - name: Miscellaneous
+    url: '#miscellaneous'
     weight: 50
   - name: Contact
     url: '#contact'
