@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Jiashuo Sun'
+    notice: '© {year} Summer Wu'
     license:
       enable: false
       allow_derivatives: false

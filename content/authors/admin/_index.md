@@ -1,37 +1,37 @@
 ---
 # Display name
-title: Jiashuo Sun
+title: Summer Wu
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Postgraduate student@XMU
+role: Postgraduate student@ECNU
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Xiamen University
-    url: https://www.xmu.edu.cn/
+  - name: East China Normal University
+    url: https://www.ecnu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include NLP, Retrieval, Reasoning and Knowledge-Augmented LLM.
+bio: My research interests include AI+Education, Blended Learning, Computer-supported Collaborative Learning.
 
 # Interests to show in About widget
 interests:
-  - Large Language Models
-  - Retrieval
-  - Reasoning
-  - Knowledge-Augmented LLM
+  - AI+Education
+  - Blended Learning
+  - Computer-supported Collaborative Learning
+  - Games for Learning
 
 # Education to show in About widget
 education:
   courses:
-    - course: M.S. in Computer Science
-      institution: Xiamen University
-      year: 2021-2024(expected)
-    - course: B.S. in Computer Science
-      institution: Shandong University
-      year: 2017-2021
+    - course: M.S. in Educational Technology
+      institution: East China Normal University
+      year: 2022-2024(expected)
+    - course: B.S. in Educational Technology
+      institution: Sichuan Normal University
+      year: 2018-2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -40,16 +40,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:gasolsun36@gmail.com'
-  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://scholar.google.com.hk/citations?user=JCUiEM4AAAAJ&hl=zh-CN
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/%E5%98%89%E7%A1%95-%E5%AD%99-b67857190/
+    link: 'mailto:18981101913@163.com'
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -59,14 +50,14 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'gasolsun36@gmail.com'
+email: '18981101913@163.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am now a final-year student at the Xiamen University, advised by Prof. [Chen Lin](https://cs.xmu.edu.cn/info/1008/1216.htm) and Dr. [Yeyun Gong](https://www.microsoft.com/en-us/research/people/yegong/).
+I am now a second-year student at East China Normal University, advised by Prof. [Yonghe Wu](https://faculty.ecnu.edu.cn/_s8/wyh/main.psp).
 
-I am working as a research intern at [International Digital Economy Academy](https://idea.edu.cn/).
+I am working as an AI teaching assistant at [iFLYTEK](https://www.iflytek.com/en/).
 
-My research interests include Natural Language Processing, Retrieval, Natural Language Generation, Numerical Reasoning and Knowledge-Augmented LLM. Specially, I aim to develop models exceed the level of human knowledge and have human reasoning capabilities.
+My research interests include AI+Education, Blended Learning, Computer-supported Collaborative Learning. Specially, I aim to develop educational models to intelligentise education in China.
 
