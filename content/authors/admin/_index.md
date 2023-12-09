@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Summer Wu
+title: Xinyi Wu
 
 # Is this the primary user of the site?
 superuser: true
