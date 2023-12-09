@@ -22,14 +22,6 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research Intern
-    company: FinAI, International Digital Economy Academy
-    company_url: 'https://idea.edu.cn'
-    company_logo: idea
-    location: Shenzhen, China
-    date_start: '2023-04-06'
-    date_end: ''
-    description: Advised by Prof. [Jian Guo](https://www.idea.edu.cn/person/guojian/) and Prof. [Heung-Yeung Shum](https://scholar.google.com.hk/citations?user=9akH-n8AAAAJ&hl=zh-CN)
   - title: Online Research Intern
     company: Microsoft Research Asia
     company_url: 'https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/'
@@ -46,11 +38,11 @@ experience:
     date_start: '2021-09-01'
     date_end: ''
     description: Advised by Prof. [Chen Lin](https://xmudm.github.io/people/)
-  - title: Research Assitant
-    company: Shandong University
-    company_url: 'https://www.sdu.edu.cn/index.htm'
+  - title: AI Teaching Assitant
+    company: iFLYTEK
+    company_url: 'https://www.iflytek.com/en/'
     company_logo: sdu
-    location: Jinan, China
+    location: Shanghai, China
     date_start: '2020-03-01'
     date_end: '2021-06-01'
     description: 
