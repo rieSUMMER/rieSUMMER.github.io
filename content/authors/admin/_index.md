@@ -41,6 +41,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:18981101913@163.com'
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: 
+  - icon: github
+    icon_pack: fab
+    link: 
+  - icon: linkedin
+    icon_pack: fab
+    link: 
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
