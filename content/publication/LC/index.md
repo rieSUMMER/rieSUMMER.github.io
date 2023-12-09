@@ -1,27 +1,24 @@
 ---
-title: 'APOLLO: An Optimized Training Approach for Long-form Numerical Reasoning'
+title: 'Learning Communities: a Collaborative Approach Towards to Trusting Symbiosis'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Hang Zhang
-  - Chen Lin
-  - Yeyun Gong
-  - Jian Guo
-  - Nan Duan
+  - Zhiwen Xia
+  - Yonghe Wu
 
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2022-12-14T00:00:00Z'
+date: '2023-03-18T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-12-14T00:00:00Z'
+publishDate: ''
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -33,7 +30,7 @@ publication_types: ['3']
 publication: 
 publication_short: 
 
-abstract: Long-form numerical reasoning in financial analysis aims to generate a reasoning program to calculate the correct answer for a given question. Previous work followed a retriever-generator framework, where the retriever selects key facts from a long-form document, and the generator generates a reasoning program based on retrieved facts. However, they treated all facts equally without considering the different contributions of facts with and without numbers. Meanwhile, the program consistency were ignored under supervised training, resulting in lower training accuracy and diversity. To solve these problems, we proposed APOLLO to improve the long-form numerical reasoning framework. For the retriever, we adopt a number-aware negative sampling strategy to enable the retriever to be more discriminative on key numerical facts. For the generator, we design consistency-based reinforcement learning and target program augmentation strategy based on the consistency of program execution results. Experimental results on the FinQA and ConvFinQA leaderboard verify the effectiveness of our proposed method, achieving the new state-of-the-art.
+abstract: In the post-epidemic era, there is an urgent demand for the restoration of collaborative, open, and efficient learning. When individuals engage in learning within a community, collaborative learning based on community trust is an important intrinsic driver towards high-quality learning. How to fully harness the value and potential of the community in collaborative learning? This article first constructs a collaborative learning framework that promotes deep learning in learning communities, incorporating four core elements. During 12 weeks of blended online and offline learning practices, creating a learning community atmosphere, nurturing student collaboration skills, forming learning communities, implementing specific collaborative activities, and conducting learning evaluation and reflection have led to the development of a collaborative learning approach towards trust-based symbiosis. Results demonstrate that our exploration of collaborative learning teaching methods within learning communities is practical and highly effective.
 
 tags: []
 
@@ -57,18 +54,13 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: '[**APOLLO**](https://arxiv.org/abs/2212.07249)'
+  caption: '[**LC**]()'
   focal_point: ''
   preview_only: false
 
 links:
   - name: Paper
-    url: https://arxiv.org/abs/2212.07249
-  - name: Code
-    url: https://github.com/GasolSun36/APOLLO
-  - name: Leaderboard
-    url: https://codalab.lisn.upsaclay.fr/competitions/8582#results
-
+    url:
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.

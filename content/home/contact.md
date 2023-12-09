@@ -25,12 +25,12 @@ content:
   #     captcha: false
 
   # Contact details (edit or remove options as required)
-  email: gasolsun36@gmail.com
+  email: 18981101913@163.com
   address:
-    street: No.5 Shihana Road
-    city: Shenzhen
+    street: No.3663 Zhongshan North Road
+    city: Shanghai
     region: CN
-    postcode: '518000'
+    postcode: '200062'
     country: China
     country_code: CN
   # contact_links:
