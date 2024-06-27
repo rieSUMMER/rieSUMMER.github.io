@@ -6,29 +6,32 @@ title: Xinyi Wu
 superuser: true
 
 # Role/position/tagline
-role: Postgraduate student@ECNU
+role: Incoming PhD student@SJTU
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: East China Normal University
-    url: https://www.ecnu.edu.cn/
+  - name: Shanghai Jiao Tong University
+    url: https://www.sjtu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include AI+Education, Blended Learning, Computer-supported Collaborative Learning.
+bio: My research interests include AI4Edu, Blended Learning, Computer-supported Collaborative Learning.
 
 # Interests to show in About widget
 interests:
-  - AI+Education
-  - Blended Learning
-  - Computer-supported Collaborative Learning
-  - Games for Learning
+  - Artificial Intelligence in Education (Multi-Modal; NLP; LLM)
+  - Human-Computer Collaborative Learning
+  - Gamification and Digital Education (VR; AR; STEAM)
+  - Educational design-based research
 
 # Education to show in About widget
 education:
   courses:
+    - course: Ph.D. in Educational Technology
+      institution: Shanghai Jiao Tong University
+      year: 2024-2028(expected)
     - course: M.S. in Educational Technology
       institution: East China Normal University
-      year: 2022-2024(expected)
+      year: 2022-2024
     - course: B.S. in Educational Technology
       institution: Sichuan Normal University
       year: 2018-2022
@@ -64,9 +67,16 @@ email: '18981101913@163.com'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am now a second-year student at East China Normal University, advised by Prof. [Yonghe Wu](https://faculty.ecnu.edu.cn/_s8/wyh/main.psp).
+I am now an incoming PhD student at the Shanghai Jiao Tong University, SOE, supervised by Prof. [Feng-Kuang Chiang](https://soe.sjtu.edu.cn/Web/FacultyDetail/20?t=60). Before that, I got my Master degree and Bachelor degree from East China Normal University and Sichuan Normal University, respectively.
 
-I am working as an AI teaching assistant at [iFLYTEK](https://www.iflytek.com/en/).
+I am working as an teaching assistant at [Youmei](https://www.ymce.com/index.html).
 
 My research interests include AI+Education, Blended Learning, Computer-supported Collaborative Learning. Specially, I aim to develop educational models to intelligentise education in China.
 
+**News**:
+- Looking for collobration. If you are interested in working with me in AI4Edu tasks, please drop me an email.
+- 06/2024: I got the Shanghai Outstanding Graduates Prize!
+- 11/2023: 1 papers is accepted by ISLS.
+- 09/2023: 1 paper is accepted by Shanghai Education.
+- 08/2023: 2 papers are accepted by IEEE, SITE.
+- 05/2023: 1 paper is accepted by ICEIT(Spotlight).
