@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a PhD student at the Shanghai JiaoTong University, SoE, supervised by Prof. [Feng-Kuang Chiang](https://soe.sjtu.edu.cn/Web/FacultyDetail/20?t=60).
+❤️ Hi there, this is Summer Wu🦋～ Currently I am a PhD candidate at the Shanghai JiaoTong University, SoE, supervised by Prof. [Feng-Kuang Chiang](https://soe.sjtu.edu.cn/Web/FacultyDetail/20?t=60). I received my Master degree in 2024 from East China Normal University, where I was advised by Prof. [Yonghe Wu](https://faculty.ecnu.edu.cn/_s8/wyh/main.psp).
 
-🤔 My research interests include AI+Education and LLM-based Agent. I keep collobration with my friends Dr. [Yanhao Jia](https://scholar.google.com/citations?user=jQx7NpQAAAAJ&hl=en) on Multi-Modal Tasks, Dr. [Shuai Zhao](https://scholar.google.com/citations?user=upbsFBAAAAAJ&hl=en) on LLMs-related Tasks. Specially, I aim to develop educational models to intelligentise education in China.
+🤔 My research interests include AI for STEM Education, LLM-based Agent, and Analysis/Application of Educational Technology. I keep collobration with my friends Dr. [Yanhao Jia](https://scholar.google.com/citations?user=jQx7NpQAAAAJ&hl=en) on Multi-Modal Tasks and Dr. [Shuai Zhao](https://scholar.google.com/citations?user=upbsFBAAAAAJ&hl=en) on LLMs-related Tasks. Specially, I aim to develop educational models to intelligentise STEM education in China.
 
 
 🤝 **Looking for collobration. If you are interested in working with me in AI tasks or AI4Edu tasks, please drop me an email.**
@@ -39,7 +39,7 @@ I am now a PhD student at the Shanghai JiaoTong University, SoE, supervised by P
 
 - [Towards Robust Evaluation of STEM Education: Leveraging MLLMs in Project-Based Learning](https://arxiv.org/abs/2505.17050), Yanhao Jia, **Xinyi Wu**, Qinglin Zhang, Yiran Qin, Luwei Xiao, Shuai Zhao.
 
-- [Investigating Vulnerabilities and Defenses Against Audio-Visual Attacks: A Comprehensive Survey Emphasizing Multimodal Models](https://arxiv.org/abs/2506.11521), Jinming Wen, **Xinyi Wu**, Shuai Zhao, Yanhao Jia, Yuwen Li.
+- ``Submit to ACM Computing Surveys``[Investigating Vulnerabilities and Defenses Against Audio-Visual Attacks: A Comprehensive Survey Emphasizing Multimodal Models](https://arxiv.org/abs/2506.11521), Jinming Wen, **Xinyi Wu**, Shuai Zhao, Yanhao Jia, Yuwen Li.
 
 # 📝 Publications <a href='https://scholar.google.com/citations?user=LQfCBpEAAAAJ&hl=en'>
 
@@ -51,11 +51,11 @@ I am now a PhD student at the Shanghai JiaoTong University, SoE, supervised by P
 
 - ``ICEIT 2023 Spotlight`` [Exploration of mathematics education by metaverse technology](https://ieeexplore.ieee.org/iel7/10107824/10107771/10107894.pdf), **Xinyi Wu**, Yuanyuan Chen, Yonghe Wu.
 
-- ``International Society of Learning Sciences`` [Learning Communities a Collaborative Approach Towards to Trusting Symbiosis](), **Xinyi Wu**.
+- ``International Society of Learning Sciences`` [Learning Communities a Collaborative Approach Towards to Trusting Symbiosis](), **Xinyi Wu**, Zhiwen Xia, Yonghe Wu.
 
-- ``Society for Information Technology and Teacher Education`` [Design and Practice of Educational Games Base on Metaverse Scenarios](), **Xinyi Wu**.
+- ``Society for Information Technology and Teacher Education`` [Design and Practice of Educational Games Base on Metaverse Scenarios](), **Xinyi Wu**, Yuanyuan Chen, Yonghe Wu.
 
-- ``International Journal of Artificial Intelligence in Education`` [Leveraging GenAI in Design Drawing: A Case Study of an Architecture Course in Chinese University](), **Xinyi Wu**.
+- ``International Journal of Artificial Intelligence in Education`` [Leveraging GenAI in Design Drawing: A Case Study of an Architecture Course in Chinese University](), Xiaokai LIU, Fengkuang CHIANG, Yuqiao TAN, **Xinyi Wu**, Yingying CHA, Cher Ping LIM.
 
 - ``Education and Information Technologies`` [Factors influencing behavioral intention to use e-learning in higher education during the COVID-19 pandemic: A meta-analytic review based on the UTAUT2 model](https://link.springer.com/article/10.1007/s10639-024-13299-2), Hao Zheng, Feifei Han, Yi Huang, Yonghe Wu, **Xinyi Wu**.
 
@@ -67,6 +67,12 @@ I am now a PhD student at the Shanghai JiaoTong University, SoE, supervised by P
 - *2024.09 - (now)*, Ph.D. in Education, Shanghai Jiao Tong University
 - *2022.09 - 2024.06*, M.S. in Modern Education Technology, East China Normal University (Rank: 1/30)
 - *2018.09 - 2022.06*, B.S. in Computer Science and Technology, Sichuan Normal University (Rank: 1/81)
+
+# 👩‍💻 Internships
+- *2023.09 - 2023.12*, IT teacher, Fuxing Senior High School
+- *2023.08 - 2023.12*, Artificial Intelligence teacher, iFLYTEK
+- *2021.08 - 2021.11*, STEAM & Programming teacher, Chengdu Shishi High School
+- *2021.08 - 2024.05*, House Leader & Activity Leade, You Mei Camp Education
 
 # 💻 Selected Honors and Awards
 - *2024* Shanghai Outstanding Graduates Prize
